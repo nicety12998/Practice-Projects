@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/nicety12998/Practice-Projects.git" />
+    <option name="myPathToGit" value="C:\Users\jk14e\AppData\Local\GitHubDesktop\app-1.0.6\resources\app\git\cmd\git.exe" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
